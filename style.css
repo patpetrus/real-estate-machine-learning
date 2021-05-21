@@ -47,7 +47,7 @@ ul {
 
   /* Style buttons */
 .btn {
-  background-color: #0400ff;
+  background-color: #010044;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -57,6 +57,10 @@ ul {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: #010044;
+  background-color: #0400ff;
   color: white;
+}
+
+body {
+  background-color: #e7e7e7;
 }
