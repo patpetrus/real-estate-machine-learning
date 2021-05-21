@@ -40,3 +40,23 @@ ul {
   .leaflet-popup-content {
     text-align: center;
   }
+
+  .tableauPlaceholder {
+    /* placeholder: any formatting for maps will go here ;)*/
+  }
+
+  /* Style buttons */
+.btn {
+  background-color: #0400ff;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #010044;
+  color: white;
+}
