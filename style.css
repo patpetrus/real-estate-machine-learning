@@ -64,3 +64,7 @@ ul {
 body {
   background-color: #e7e7e7;
 }
+
+.panel-default {
+  color: black;
+}
